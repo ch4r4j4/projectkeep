@@ -1,11 +1,10 @@
 import { useState } from 'react'
-import './App.css'
-
-
 import { Button } from "keep-react";
-  const App=()=>{
+import Navbarcomponent from './components/Navbarcomponent';
+
+const App=()=>{
     return (
-      <Button size="md">Default</Button>
+      <Navbarcomponent/>
     )
   }
 export default App;

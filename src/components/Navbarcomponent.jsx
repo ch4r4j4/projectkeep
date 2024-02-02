@@ -46,4 +46,3 @@ const Navbarcomponent = () => {
 }
 
 export default Navbarcomponent;
-/*empezar a probar y practicar las siguientes pruebasd con next ui y cite creo esta mejor que el keep react*/

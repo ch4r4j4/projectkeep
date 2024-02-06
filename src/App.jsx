@@ -1,11 +1,13 @@
 import { useState } from 'react'
 import { Button } from "keep-react";
 import Navbarcomponent from './components/Navbarcomponent';
+import SignInSide from './components/SignInSide';
 
 const App=()=>{
     return (
       <>
-      <Navbarcomponent/>
+      {/*<Navbarcomponent/>*/}
+      <SignInSide />
       </>
     )
   }

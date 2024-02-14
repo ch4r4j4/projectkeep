@@ -127,3 +127,5 @@ export default function SignInSide() {
     </ThemeProvider>
   );
 }
+
+{/*fue ps no tengo ni las mas minima idea de como comenzar*/ }

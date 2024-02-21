@@ -1,13 +1,16 @@
 import { useState } from 'react'
-import { Button } from "keep-react";
-import Navbarcomponent from './components/Navbarcomponent';
 import SignInSide from './components/SignInSide';
+import AddressForm from './components/AddressForm';
+
+import Checkout from './components/CheckOut';
 
 const App=()=>{
     return (
       <>
-      {/*<Navbarcomponent/>*/}
-      <SignInSide />
+      <Checkout />
+      {/*<AddressForm />*/}
+      {/*<SignInSide />*/}
+      
       </>
     )
   }

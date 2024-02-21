@@ -127,7 +127,3 @@ export default function SignInSide() {
     </ThemeProvider>
   );
 }
-
-{/*fue ps no tengo ni las mas minima idea de como comenzar*/ }
-
-{/*ya vamos entendiendo un poco mas del use state y mas creo aunnos falta aprender mas pero no tengo ni las minima idea de como cotinuar*/ }

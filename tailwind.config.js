@@ -9,4 +9,5 @@ export default {
   presets: [keepPreset],
 };
 
-/*esto casi ya fue alv ahora solo tengo que empezar a realiazr jejejje ya fue todo a la ñonga*/
+/*esto casi ya fue alv ahora solo tengo que empezar a realiazr jejejje ya fue todo a la ñonga
+que me esta paando creo que la estoy fregando*/

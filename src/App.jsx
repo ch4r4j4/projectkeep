@@ -16,3 +16,4 @@ const App=()=>{
   }
 export default App;
 /**empezar a practicar con material UI esta mejor que eso del keep react */
+/*ya fue que voy a hacer no se como continuar*/

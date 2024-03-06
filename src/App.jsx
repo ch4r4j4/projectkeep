@@ -15,3 +15,5 @@ const App=()=>{
     )
   }
 export default App;
+
+/* utilizando todos los cambios para terminar todo esta locura*/

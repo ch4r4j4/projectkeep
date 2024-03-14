@@ -18,5 +18,6 @@ export default App;
 
 /* utilizando todos los cambios para terminar todo esta locura
 poco a poco seguiremos avanzando
+solo para que nuestro github aprezaca que estamos avanzando
 vamos avanzando poco a poco para ver como solucionamos estas cosas se que con fe lo logro
 */

@@ -20,4 +20,5 @@ export default App;
 poco a poco seguiremos avanzando
 solo para que nuestro github aprezaca que estamos avanzando
 vamos avanzando poco a poco para ver como solucionamos estas cosas se que con fe lo logro
+continuemos asi y seguir dandole
 */

@@ -23,4 +23,5 @@ vamos avanzando poco a poco para ver como solucionamos estas cosas se que con fe
 continuemos asi y seguir dandole
 vamos a terminar ese componente sea como sea
 vamo a vanzando poco a poco hoy subimos y logramos dividr el path y utilizar de mejor manera el app
+poco a poco me has querido poco a poco me has amado morenita de mi amor nunca diga sque no son cossas del amor
 */

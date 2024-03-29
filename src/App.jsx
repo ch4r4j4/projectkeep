@@ -25,4 +25,5 @@ vamos a terminar ese componente sea como sea
 vamo a vanzando poco a poco hoy subimos y logramos dividr el path y utilizar de mejor manera el app
 poco a poco me has querido poco a poco me has amado morenita de mi amor nunca diga sque no son cossas del amor
 a seguir dandloe cambio antes de continuar nuestro proyecto importante
+la verdad fue un gran inicio pero creo solo me he quedado en el diseño y no en la funcionalidad que es lo mas importantes
 */

@@ -24,4 +24,5 @@ voy subeidno de una vez los cambios para que no aparezca vacio por hoy mi reposi
 cada vez mas voy aprendiendo de como realiazr estos programas un poco mas de experiencia y ya casi estara listo
 ultimo cambio de la semana
 no subi ningun cambio
+aqui haciendo tonterias solo para subir cambiod en el github
 */

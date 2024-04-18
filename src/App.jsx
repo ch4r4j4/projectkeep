@@ -26,4 +26,5 @@ ultimo cambio de la semana
 no subi ningun cambio
 aqui haciendo tonterias solo para subir cambiod en el github
 me quede sin avanzar ni tocar nada de esto ya fue creo que estoy perdiendo mucho timepo
+solo para no perder el ritmo de esta continuacion
 */

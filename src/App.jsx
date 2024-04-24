@@ -16,15 +16,6 @@ const App=()=>{
   }
 export default App;
 
-/* 
-pitacora dia 100 de este proyecto creo ya debiestar terminando
-creo que ya casi lo tenemos listos segun vi el video
-tengo que ahora realizar bien la parte de nuestro login
-voy subeidno de una vez los cambios para que no aparezca vacio por hoy mi repositorio
-cada vez mas voy aprendiendo de como realiazr estos programas un poco mas de experiencia y ya casi estara listo
-ultimo cambio de la semana
-no subi ningun cambio
-aqui haciendo tonterias solo para subir cambiod en el github
-me quede sin avanzar ni tocar nada de esto ya fue creo que estoy perdiendo mucho timepo
-solo para no perder el ritmo de esta continuacion
+/*
+jdnckjsdkjckdcb
 */

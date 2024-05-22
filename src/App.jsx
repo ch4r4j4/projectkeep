@@ -1,13 +1,14 @@
 import { useState } from 'react'
 import SignInSide from './components/SignInSide';
 import AddressForm from './components/AddressForm';
-
-import Checkout from './components/CheckOut';
+import AppMenu from './components/AppMenu';
+import Checkout from './components/Checkout';
 
 const App=()=>{
     return (
       <>
-      <Checkout />
+      <AppMenu />
+
       {/*<AddressForm />*/}
       {/*<SignInSide />*/}
       
@@ -15,8 +16,3 @@ const App=()=>{
     )
   }
 export default App;
-
-/*
-jdnckjsdkjckdcb
-el cambio solo por hoy dia
-*/

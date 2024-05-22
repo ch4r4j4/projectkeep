@@ -132,11 +132,14 @@ export default function AddressForm() {
           />
         </Grid>
         <Grid item xs={12} sm={6}>
-          <DateTimePicker
-            label="Fecha y hora"
-            value={selectedDate}
-            onChange={handleChangeDate}
-            renderInput={(params) => <TextField {...params} />}
+        <TextField
+            required
+            id="city"
+            name="city"
+            label="celular o Telefono"
+            fullWidth
+            autoComplete="shipping address-level2"
+            variant="standard"
           />
         </Grid>
         <Grid item xs={12} sm={6}>

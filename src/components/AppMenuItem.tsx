@@ -34,3 +34,4 @@ const AppMenuItem: React.FC<AppMenuItemProps> = ({ item }) => {
 };
 
 export default AppMenuItem;
+////hora de cambiar muchas cosas al fin entiendo lo que es react pero tristemente aun no entiendo lo que es POO en el lado frontend

@@ -4,16 +4,17 @@ import AddressForm from './components/AddressForm';
 import AppMenu from './components/AppMenu';
 import Checkout from './components/Checkout';
 import DeleteButton from './components/DeleteButton';
+import Dashboard from './components/dashboard/Dashboard';
 
 const App=()=>{
     return (
-      <div className="flex items-center justify-center min-h-screen bg-gray-100">
-        <DeleteButton />
+      <>
+        <Dashboard />
         {/* <AppMenu />*/}
       {/*<AddressForm />*/}
       {/*<SignInSide />*/}
       
-      </div>
+      </>
       
   
     )

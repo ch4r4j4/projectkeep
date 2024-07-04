@@ -16,6 +16,7 @@ const Nav = ({ sidebarOpen, setSidebarOpen }: SidebarProps) =>{
             <li>compras</li>
             <li>cuenta</li>
             <li>nueva mision</li>
+            <li>sin nidea de ue avanzar</li>
           </ul>
         </div>
       );
